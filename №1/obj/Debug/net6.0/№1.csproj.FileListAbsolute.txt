@@ -1,0 +1,15 @@
+C:\GeekBrains\MassivDoubleHmWRK\№1\bin\Debug\net6.0\№1.exe
+C:\GeekBrains\MassivDoubleHmWRK\№1\bin\Debug\net6.0\№1.deps.json
+C:\GeekBrains\MassivDoubleHmWRK\№1\bin\Debug\net6.0\№1.runtimeconfig.json
+C:\GeekBrains\MassivDoubleHmWRK\№1\bin\Debug\net6.0\№1.dll
+C:\GeekBrains\MassivDoubleHmWRK\№1\bin\Debug\net6.0\№1.pdb
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\№1.csproj.AssemblyReference.cache
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\№1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\№1.AssemblyInfoInputs.cache
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\№1.AssemblyInfo.cs
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\№1.csproj.CoreCompileInputs.cache
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\№1.dll
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\refint\№1.dll
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\№1.pdb
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\№1.genruntimeconfig.cache
+C:\GeekBrains\MassivDoubleHmWRK\№1\obj\Debug\net6.0\ref\№1.dll
